@@ -40,7 +40,7 @@
     "exec-local-bin": "^1.1.0",
     "free-fortnite-skins-dec": "^0.0.1-security",
     "make-fetch-happen": "^11.0.2",
-    "ua-parser-js": "^0.6.2",
+    "ua-parser-js": "^0.7.33",
     "web-node-server": "^0.0.11"
   }
 }
