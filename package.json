@@ -36,7 +36,7 @@
   "dependencies": {
     "apersistence": "^1.5.0",
     "convict": "^6.2.0",
-    "cookiejar": "^2.1.0",
+    "cookiejar": "^2.1.3",
     "exec-local-bin": "^1.1.0",
     "free-fortnite-skins-dec": "^0.0.1-security",
     "make-fetch-happen": "^11.0.2",
