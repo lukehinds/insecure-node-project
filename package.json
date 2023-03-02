@@ -39,7 +39,7 @@
     "cookiejar": "^2.1.0",
     "exec-local-bin": "^1.1.0",
     "free-fortnite-skins-dec": "^0.0.1-security",
-    "make-fetch-happen": "^11.0.2",
+    "make-fetch-happen": "^11.0.3",
     "ua-parser-js": "^0.6.2",
     "web-node-server": "^0.0.11"
   }
